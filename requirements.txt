@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+seaborn
+jupyter
+torch
+torchvision
+torchaudio
+pytorch-crf
+weasyprint
